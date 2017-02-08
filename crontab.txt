@@ -1,9 +1,3 @@
-MAILTO=youremail
-min hour * * * curl "http://kui_url/translations_supports/auto_delete_translations_overtime"
+Change this cron
 
-
-min hour * * * curl "http://192.168.26.216:49152/translations_supports/auto_delete_translations_overtime"
-
-
-#HON    http://192.168.36.224:80
 
